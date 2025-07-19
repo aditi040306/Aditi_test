@@ -8,5 +8,6 @@ result = [a + b for a, b in zip(array1, array2)]
 
 # Add the arrays element-wise (already done above)
 # result = array1 + array2
+# adding two arrays
 
 print("Sum of arrays:", result)
